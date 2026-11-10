@@ -15,6 +15,10 @@ content:
         label: Homepage
         type: object
         fields:
+          - name: logoImage
+            label: Logo
+            description: Displayed at up to 64 pixels. Leave blank for the text wordmark alone.
+            type: image
           - name: title
             label: Main heading
             type: string

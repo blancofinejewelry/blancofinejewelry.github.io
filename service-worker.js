@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_NAME = 'blanco-portfolio-v1';
+const CACHE_NAME = 'blanco-portfolio-v2';
 const SCOPE = new URL(self.registration.scope);
 const SHELL = ['index.html', 'styles.css', 'app.js', 'site.json', 'offline.html', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 const SHELL_URLS = new Set(SHELL.map((file) => new URL(file, SCOPE).href));

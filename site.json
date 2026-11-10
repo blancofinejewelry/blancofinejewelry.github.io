@@ -1,14 +1,116 @@
 {
   "homepage": {
+    "logoImage": "/images/blanco-logo-instagram.jpg",
     "title": "A study in jewelry.",
-    "description": "A personal exploration of form, material, and making.",
-    "heroImage": "",
-    "heroAlt": ""
+    "description": "An evolving portfolio of sculptural jewelry, handmade in New York City.",
+    "heroImage": "/images/malayan-garnet-ring.jpg",
+    "heroAlt": "A Malayan garnet ring with a sculptural, organic Argentium silver setting."
   },
-  "about": "",
+  "about": "A personal portfolio developed while studying jewelry design. An ongoing exploration of sculptural form, materials, and making by hand.",
   "contact": {
     "email": "",
-    "instagramUrl": ""
+    "instagramUrl": "https://www.instagram.com/blancofinejewelry/"
   },
-  "jewelry": []
+  "jewelry": [
+    {
+      "title": "Garnet Sunburst Pendant",
+      "description": "A garnet pendant with an intricate sunburst setting.",
+      "material": "Argentium silver and garnet",
+      "gallery": [
+        "/images/garnet-sunburst-pendant.jpg"
+      ],
+      "order": 10,
+      "visible": true
+    },
+    {
+      "title": "Past, Present & Future Necklace",
+      "description": "Three colorful spinels arranged on a 16-inch necklace.",
+      "material": "Argentium silver and spinel",
+      "gallery": [
+        "/images/past-present-future-necklace.jpg"
+      ],
+      "order": 20,
+      "visible": true
+    },
+    {
+      "title": "Sculptural Silver Necklace",
+      "description": "An irregular, organic silhouette shaped by flowing curves.",
+      "material": "Argentium silver",
+      "gallery": [
+        "/images/sculptural-silver-necklace.jpg"
+      ],
+      "order": 30,
+      "visible": true
+    },
+    {
+      "title": "Malayan Garnet Ring",
+      "description": "A Malayan garnet held in a sculptural, organic setting.",
+      "material": "Argentium silver and Malayan garnet",
+      "gallery": [
+        "/images/malayan-garnet-ring.jpg"
+      ],
+      "order": 40,
+      "visible": true
+    },
+    {
+      "title": "Organic Silver Ring",
+      "description": "A polished silver ring with an organic silhouette.",
+      "material": "Argentium silver",
+      "gallery": [
+        "/images/organic-silver-ring.jpg"
+      ],
+      "order": 50,
+      "visible": true
+    },
+    {
+      "title": "Blue Topaz Starburst Ring",
+      "description": "Blue topaz framed by starburst detailing on a delicate band.",
+      "material": "Argentium silver and blue topaz",
+      "gallery": [
+        "/images/blue-topaz-starburst-ring.jpg"
+      ],
+      "order": 60,
+      "visible": true
+    },
+    {
+      "title": "Wedding Bands",
+      "description": "A pair of custom wedding bands made for a couple.",
+      "material": "",
+      "gallery": [
+        "/images/wedding-bands.jpg"
+      ],
+      "order": 70,
+      "visible": true
+    },
+    {
+      "title": "Sculptural Gemstone Earrings",
+      "description": "Sculptural earrings combining silver and gemstones.",
+      "material": "Argentium silver and gemstones",
+      "gallery": [
+        "/images/sculptural-gemstone-pieces.jpg"
+      ],
+      "order": 80,
+      "visible": true
+    },
+    {
+      "title": "Mixed Metal Stacking Rings",
+      "description": "Three stacking rings: two in silver and one in gold, with diamond details.",
+      "material": "Silver, gold and diamonds",
+      "gallery": [
+        "/images/mixed-metal-stacking-rings.jpg"
+      ],
+      "order": 90,
+      "visible": true
+    },
+    {
+      "title": "Initial Rings",
+      "description": "Three rings featuring personalized initials.",
+      "material": "",
+      "gallery": [
+        "/images/personalized-initial-ring.jpg"
+      ],
+      "order": 100,
+      "visible": true
+    }
+  ]
 }

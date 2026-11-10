@@ -88,6 +88,12 @@ function renderSite(data) {
   element('introduction').hidden = !text(homepage.description);
   document.querySelector('meta[name="description"]').content = text(homepage.description) || 'Blanco Fine Jewelry — a personal jewelry portfolio.';
 
+  const logo = element('brand-logo');
+  const logoSource = imageURL(homepage.logoImage);
+  logo.hidden = !logoSource;
+  if (logoSource) logo.src = logoSource;
+  else logo.removeAttribute('src');
+
   const hero = element('hero');
   const heroSource = imageURL(homepage.heroImage);
   hero.replaceChildren();

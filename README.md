@@ -12,16 +12,18 @@ The header displays the original 150 × 150 profile logo at no more than 64 pixe
 
 ## Updating photographs and text
 
-The prepared editor configuration is `.pages.yml`. The free hosted [Pages CMS editor](https://app.pagescms.org/) can be connected to this repository by its owner. It is a separate service from GitHub Pages; it edits content stored here.
+The free hosted [Pages CMS editor](https://app.pagescms.org/) is connected to this repository in the owner's GitHub account, with access limited to this website repository. Its editor configuration is `.pages.yml`. It is a separate service from GitHub Pages; it edits content stored here.
 
 1. Sign in to Pages CMS with the repository owner’s GitHub account and select this website repository.
 2. Open **Website content**.
 3. Edit the **Homepage** logo, heading, introduction and main photo, **About text**, or **Public contact details**. Add a short visual description for the main photo.
 4. Under **Jewelry portfolio**, add a piece, its name, materials and description, and up to eight photos.
-5. Turn on **Show on website** when ready. Set **Display order** if needed.
+5. Turn on **Show on website** when ready. Set **Display order**: lower numbers appear first. For a new piece after the current ten, use the next number in the sequence, such as **110**.
 6. Save. GitHub Pages publishes the resulting commit; allow the deployment to complete before checking the live website.
 
 The website reads `site.json`. Uploaded photographs belong in `images/`. Keep original camera files separately and upload optimized JPEG, PNG, WebP, or AVIF images; roughly 1600–2400 pixels on the longest side is normally sufficient. The editor itself is not assumed to compress photographs.
+
+**Ordering pieces and photos:** Change each piece's **Display order** to control its position on the website; moving the piece in the editor list alone does not override that number. A blank order is treated as zero and places the new piece before those with higher numbers. Within a piece, the first photo is its gallery thumbnail, and the detail view follows the saved photo order.
 
 Both the main photo and gallery photos are shown in full, without cropping. A piece needs a name, at least one valid photo, and **Show on website** enabled to appear. If all pieces are hidden or removed, the homepage returns to “Portfolio in progress.” Leave a contact field blank to hide it. Publishing through the editor saves to this public repository, so use only information and images intended for the public website.
 
@@ -35,7 +37,7 @@ The repository is intended to be `blancofinejewelry/blancofinejewelry.github.io`
 
 `manifest.webmanifest` and `service-worker.js` provide the PWA foundation: a standalone display, home-screen icons, a cached page and previously viewed photographs. Installation controls vary by browser. Content is requested from the network first so new edits appear online; the cached copy is used when offline. External sites and the editor are not cached. The image cache is limited to 80 files.
 
-If the application shell changes substantially, increment `CACHE_NAME` in `service-worker.js`. Website operation requires HTTPS, apart from local development. There is no cart or checkout.
+If the application shell changes substantially, increment `CACHE_NAME` in `service-worker.js`. PWA installation and service worker support require HTTPS, apart from localhost development. The GitHub Pages certificate is active and HTTPS enforcement is enabled. There is no cart or checkout.
 
 ## Files
 

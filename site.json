@@ -1,14 +1,15 @@
 {
   "homepage": {
     "logoImage": "/images/blanco-logo-instagram.jpg",
-    "title": "A study in jewelry.",
-    "description": "An evolving portfolio of sculptural jewelry, handmade in New York City.",
+    "title": "Designed with intention. Made with individuality. Created to be personal.",
+    "description": "Jewelry beyond the expected.\n\nA celebration of organic forms, beautiful imperfections, and individual expression. Each piece reimagines traditional silhouettes through sculptural shapes, unexpected details, and colorful natural gemstones.\n\nDesigned with intention, crafted by hand in NYC, and made exclusively with recycled precious metals and natural gemstones.\n\nUnique by nature. Personal by design.",
     "heroImage": "/images/malayan-garnet-ring.jpg",
     "heroAlt": "Malayan garnet set in a sculptural Argentium silver ring."
   },
-  "about": "A personal portfolio developed while studying jewelry design. An ongoing exploration of sculptural form, materials, and making by hand.",
+  "about": "With over a decade of experience in New York City's jewelry industry, I bring together my background as a visual artist and management professional with a passion for jewelry design, craftsmanship, and creative expression.\n\nAs a woman immigrant and independent designer, creating my own jewelry brand represents more than a business venture. It is an expression of my personal journey, creative independence, and desire to build something meaningful and uniquely my own.\n\nMy design philosophy is inspired by the beauty of organic forms, irregular shapes, and the unexpected. I am drawn to unconventional silhouettes, sculptural elements, and fluid lines that challenge traditional jewelry aesthetics. I believe there is beauty in imperfection and that jewelry should be expressive, distinctive, and individual.\n\nMy vision is to create jewelry that goes beyond traditional adornment. Each design is an opportunity to tell a story, celebrate individuality, and create a personal connection with the person wearing it. I also embrace personalization, offering designs that feel meaningful and reflect each individual's character and style.\n\nNatural, colorful gemstones are an essential part of my creative language. They introduce unexpected touches of color, contrast, and personality, bringing each piece to life and highlighting its unique character.\n\nEvery piece is made to order and handcrafted in New York City, allowing for a thoughtful and intentional approach to design and production. I work exclusively with recycled silver and gold and natural gemstones, placing sustainability, quality, and craftsmanship at the center of my practice.\n\nUltimately, my brand is a reflection of who I am: a woman, an immigrant, an artist, and an independent designer. It celebrates individuality, embraces imperfection, and reimagines jewelry as a form of personal expression.\n\nDesigned with intention. Made with individuality. Created to be personal.",
   "contact": {
-    "instagramUrl": "https://www.instagram.com/blancofinejewelry/"
+    "instagramUrl": "https://www.instagram.com/blancofinejewelry/",
+    "email": "blancofinejewelry@gmail.com"
   },
   "jewelry": [
     {
@@ -49,6 +50,17 @@
         "/images/malayan-garnet-ring.jpg"
       ],
       "order": 40,
+      "visible": true
+    },
+    {
+      "title": "Initial Signet Rings",
+      "description": "Silver signet rings with a diamond",
+      "gallery": [
+        "/images/screenshot-2026-11-10-at-14409-pm.png",
+        "/images/screenshot-2026-11-10-at-14052-pm.png",
+        "/images/personalized-initial-ring.jpg"
+      ],
+      "order": 100,
       "visible": true
     },
     {
@@ -98,15 +110,6 @@
         "/images/mixed-metal-stacking-rings.jpg"
       ],
       "order": 90,
-      "visible": true
-    },
-    {
-      "title": "Initial Rings",
-      "description": "Three rings featuring personalized initials.",
-      "gallery": [
-        "/images/personalized-initial-ring.jpg"
-      ],
-      "order": 100,
       "visible": true
     }
   ]

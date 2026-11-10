@@ -4,11 +4,10 @@
     "title": "A study in jewelry.",
     "description": "An evolving portfolio of sculptural jewelry, handmade in New York City.",
     "heroImage": "/images/malayan-garnet-ring.jpg",
-    "heroAlt": "A Malayan garnet ring with a sculptural, organic Argentium silver setting."
+    "heroAlt": "Malayan garnet set in a sculptural Argentium silver ring."
   },
   "about": "A personal portfolio developed while studying jewelry design. An ongoing exploration of sculptural form, materials, and making by hand.",
   "contact": {
-    "email": "",
     "instagramUrl": "https://www.instagram.com/blancofinejewelry/"
   },
   "jewelry": [
@@ -75,7 +74,6 @@
     {
       "title": "Wedding Bands",
       "description": "A pair of custom wedding bands made for a couple.",
-      "material": "",
       "gallery": [
         "/images/wedding-bands.jpg"
       ],
@@ -105,7 +103,6 @@
     {
       "title": "Initial Rings",
       "description": "Three rings featuring personalized initials.",
-      "material": "",
       "gallery": [
         "/images/personalized-initial-ring.jpg"
       ],

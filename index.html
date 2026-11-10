@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Blanco Fine Jewelry. A personal exploration of jewelry, form, and material.">
+  <title>BLANCO — Fine Jewelry</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Blanco Fine Jewelry home">
+      <span class="wordmark">BLANCO</span>
+      <span class="brand-detail">FINE JEWELRY</span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#work" id="work-link" hidden>Work</a>
+      <a href="#about" id="about-link" hidden>About</a>
+      <a href="#contact" id="contact-link" hidden>Connect</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="opening" aria-labelledby="page-title">
+      <div class="opening-copy">
+        <p class="status-label" id="portfolio-status">Portfolio in progress</p>
+        <h1 id="page-title">A study in jewelry.</h1>
+        <p class="introduction" id="introduction">A personal exploration of form, material, and making.</p>
+        <a class="text-link opening-link" id="explore-link" href="#work" hidden>Explore the work <span aria-hidden="true">↗</span></a>
+      </div>
+      <figure class="opening-photo" id="hero" hidden></figure>
+    </section>
+
+    <section class="work-section" id="work" aria-labelledby="work-title" hidden>
+      <div class="section-heading">
+        <h2 id="work-title">Selected work</h2>
+        <p>Studies in form and detail.</p>
+      </div>
+      <div class="portfolio-grid" id="portfolio-grid"></div>
+    </section>
+
+    <section class="about-section" id="about" aria-labelledby="about-title" hidden>
+      <h2 id="about-title">About</h2>
+      <div class="body-copy" id="about-copy"></div>
+    </section>
+
+    <section class="contact-section" id="contact" aria-labelledby="contact-title" hidden>
+      <h2 id="contact-title">Connect</h2>
+      <div class="contact-links" id="contact-links"></div>
+    </section>
+
+    <div class="load-notice" id="load-notice" role="status" hidden>
+      <p id="load-message">The portfolio could not be loaded. Please try again.</p>
+      <button class="text-button" id="retry-load" type="button">Try again</button>
+    </div>
+    <noscript><p class="noscript">This portfolio is being prepared. Please enable JavaScript to browse photographs when they are available.</p></noscript>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year">2026</span> Blanco Fine Jewelry</p>
+    <button class="text-button" id="install-button" type="button" hidden>Save to home screen</button>
+  </footer>
+
+  <dialog class="piece-dialog" id="piece-dialog" aria-labelledby="piece-title">
+    <button class="dialog-close" id="close-piece" type="button" aria-label="Close jewelry details">Close <span aria-hidden="true">×</span></button>
+    <div class="piece-layout">
+      <div class="piece-gallery" id="piece-gallery"></div>
+      <div class="piece-copy">
+        <h2 id="piece-title"></h2>
+        <p class="piece-material" id="piece-material"></p>
+        <div class="body-copy" id="piece-description"></div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="install-dialog" id="install-dialog" aria-labelledby="install-title">
+    <button class="dialog-close" id="close-install" type="button" aria-label="Close installation help">Close <span aria-hidden="true">×</span></button>
+    <h2 id="install-title">Keep Blanco close.</h2>
+    <p>Open your browser’s menu or Share menu and look for <strong>Add to Home Screen</strong> or <strong>Install app</strong>.</p>
+    <p class="install-note">The available option depends on your device and browser.</p>
+  </dialog>
+</body>
+</html>

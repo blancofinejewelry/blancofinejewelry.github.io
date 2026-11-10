@@ -1,0 +1,86 @@
+media:
+  input: images
+  output: /images
+  rename: safe
+  extensions: [jpg, jpeg, png, webp, avif]
+
+content:
+  - name: website
+    label: Website content
+    type: file
+    path: site.json
+    format: json
+    fields:
+      - name: homepage
+        label: Homepage
+        type: object
+        fields:
+          - name: title
+            label: Main heading
+            type: string
+          - name: description
+            label: Introduction
+            type: text
+          - name: heroImage
+            label: Main photo
+            type: image
+          - name: heroAlt
+            label: Main photo description
+            description: Briefly describe the photograph for people using a screen reader.
+            type: string
+      - name: about
+        label: About text
+        type: text
+      - name: contact
+        label: Public contact details
+        type: object
+        fields:
+          - name: email
+            label: Public email address
+            type: string
+          - name: instagramUrl
+            label: Instagram URL
+            description: Use the full https://www.instagram.com/ address. Leave blank to hide.
+            type: string
+      - name: jewelry
+        label: Jewelry portfolio
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: title
+            label: Piece name
+            type: string
+            required: true
+          - name: description
+            label: Description
+            type: text
+          - name: material
+            label: Materials
+            type: string
+          - name: gallery
+            label: Photos
+            type: image
+            options:
+              multiple:
+                max: 8
+              unique: true
+              extensions: [jpg, jpeg, png, webp, avif]
+              rename: true
+          - name: order
+            label: Display order
+            description: Lower numbers appear first.
+            type: number
+            options:
+              min: 0
+          - name: visible
+            label: Show on website
+            description: Turn this on when the piece has a name and at least one photo.
+            type: boolean
+            default: false
+
+settings:
+  content:
+    merge: true

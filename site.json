@@ -14,7 +14,7 @@
   "jewelry": [
     {
       "title": "Solaris Flow Pendant",
-      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Flow Pendant features an organic sunburst design crafted in Argentium silver or 14kt yellow gold.\n\nAt its center sits a 5 mm natural round gemstone, available in Iolite, Blue Topaz, or Amethyst.\n\nAvailable with a 16\" or 18\" chain, this pendant brings a touch of effortless elegance to everyday wear.",
+      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Flow Pendant features an organic, irregular sunburst silhouette with delicate, wave-like details that capture a sense of movement and natural elegance.\n\nAt its center sits a 5 mm natural round gemstone, available in Iolite, Blue Topaz, or Amethyst.\n\nCrafted in Argentium silver or 14kt yellow gold and available with a 16\" or 18\" chain, this pendant celebrates fluidity, individuality, and the beauty of organic forms.\n\nA delicate yet distinctive piece that brings effortless elegance to everyday wear.",
       "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
         "/images/garnet-sunburst-pendant.jpg"
@@ -45,7 +45,7 @@
     {
       "title": "Liquida Ring",
       "description": "Inspired by the beauty of molten metal and fluid movement, the Liquida Ring features an organic, free-flowing design with irregular curves that embrace the natural beauty of each gemstone.\n\nA one-of-a-kind, made-to-order statement ring, featuring a natural 8 × 6 mm gemstone, available in London Blue Topaz, Amethyst, Blue Sapphire, Garnet, or Peridot.\n\nCrafted in your choice of Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural details create a bold yet timeless piece.\n\nA celebration of individuality, fluidity, and effortless elegance, each ring is uniquely made to capture the beauty of liquid forms frozen in time.",
-      "material": "Argentium silver and Malayan garnet",
+      "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
         "/images/malayan-garnet-ring.jpg"
       ],
@@ -66,7 +66,7 @@
     {
       "title": "Unda Ring",
       "description": "Inspired by the gentle movement of water and the beauty of molten metal, the Unda Ring features an organic, free-flowing silhouette with soft, irregular curves that capture the essence of fluidity.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural shape create a minimalist yet distinctive design.\n\nA celebration of simplicity, individuality, and effortless elegance, this timeless ring captures the beauty of liquid metal in motion. Perfect for wearing alone as a subtle yet sophisticated statement.",
-      "material": "Argentium silver",
+      "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
         "/images/organic-silver-ring.jpg"
       ],
@@ -74,9 +74,9 @@
       "visible": true
     },
     {
-      "title": "Blue Topaz Starburst Ring",
-      "description": "Blue topaz framed by starburst detailing on a delicate band.",
-      "material": "Argentium silver and blue topaz",
+      "title": "Solaris Flow Ring",
+      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Flow Ring features an organic, irregular sunburst silhouette with delicate, wave-like details that create a sense of movement around a brilliant center gemstone.\n\nAt its center sits a 5 mm natural round gemstone, available in Iolite, Blue Topaz, or Amethyst.\n\nCrafted in Argentium silver or 14kt yellow gold, the ring features a subtly textured, slightly rough finish rather than a completely smooth surface, enhancing its natural, handcrafted character.\n\nA delicate yet distinctive piece that celebrates fluidity, movement, and the beauty of imperfection, perfectly complementing the Solaris Flow Pendant.",
+      "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
         "/images/blue-topaz-starburst-ring.jpg"
       ],

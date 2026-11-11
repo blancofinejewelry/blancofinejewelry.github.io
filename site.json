@@ -23,13 +23,23 @@
       "visible": true
     },
     {
-      "title": "Past, Present & Future Necklace",
-      "description": "A celebration of life's journey, the Past, Present & Future Pendant features three gemstones in a delicate, fluid design, symbolizing the moments that shape us and the memories we carry forward.\n\nEach 4 mm round  natural gemstone is set in a sleek, minimalist setting, available in three variations: Tricolor Spinel, Black Spinel, or Opal.\n\nCrafted in Argentium silver or 14kt gold, with your choice of a 16\" or 18\" chain.\n\nA timeless piece that brings together meaningful symbolism and effortless elegance.",
-      "material": "Argentium silver or 14kt gold",
+      "title": "Solaris Flow Ring",
+      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Flow Ring features an organic, irregular sunburst silhouette with delicate, wave-like details that create a sense of movement around a brilliant center gemstone.\n\nAt its center sits a 5 mm natural round gemstone, available in Iolite, Blue Topaz, or Amethyst.\n\nCrafted in Argentium silver or 14kt yellow gold, the ring features a subtly textured, slightly rough finish rather than a completely smooth surface, enhancing its natural, handcrafted character.\n\nA delicate yet distinctive piece that celebrates fluidity, movement, and the beauty of imperfection, perfectly complementing the Solaris Flow Pendant.",
+      "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
-        "/images/past-present-future-necklace.jpg"
+        "/images/blue-topaz-starburst-ring.jpg"
       ],
-      "order": 20,
+      "order": 60,
+      "visible": true
+    },
+    {
+      "title": "Liquida Ring",
+      "description": "Inspired by the beauty of molten metal and fluid movement, the Liquida Ring features an organic, free-flowing design with irregular curves that embrace the natural beauty of each gemstone.\n\nA one-of-a-kind, made-to-order statement ring, featuring a natural 8 × 6 mm gemstone, available in London Blue Topaz, Amethyst, Blue Sapphire, Garnet, or Peridot.\n\nCrafted in your choice of Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural details create a bold yet timeless piece.\n\nA celebration of individuality, fluidity, and effortless elegance, each ring is uniquely made to capture the beauty of liquid forms frozen in time.",
+      "material": "Argentium silver or 14kt  yellow gold",
+      "gallery": [
+        "/images/malayan-garnet-ring.jpg"
+      ],
+      "order": 40,
       "visible": true
     },
     {
@@ -43,13 +53,43 @@
       "visible": true
     },
     {
-      "title": "Liquida Ring",
-      "description": "Inspired by the beauty of molten metal and fluid movement, the Liquida Ring features an organic, free-flowing design with irregular curves that embrace the natural beauty of each gemstone.\n\nA one-of-a-kind, made-to-order statement ring, featuring a natural 8 × 6 mm gemstone, available in London Blue Topaz, Amethyst, Blue Sapphire, Garnet, or Peridot.\n\nCrafted in your choice of Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural details create a bold yet timeless piece.\n\nA celebration of individuality, fluidity, and effortless elegance, each ring is uniquely made to capture the beauty of liquid forms frozen in time.",
+      "title": "Fiamma Earrings",
+      "description": "Inspired by the organic shapes of dancing flames, the Fiamma Earrings feature a bold, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt gold, these sculptural earrings are available with 6 mm round natural Garnet or Amethyst gemstones, or in a plain silver version for a minimalist look.\n\nA distinctive statement piece that celebrates individuality, movement, and the beauty of organic forms.",
       "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
-        "/images/malayan-garnet-ring.jpg"
+        "/images/sculptural-gemstone-pieces.jpg"
       ],
-      "order": 40,
+      "order": 80,
+      "visible": true
+    },
+    {
+      "title": "Unda Ring",
+      "description": "Inspired by the fluid movement of water, the Unda Ring features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural shape create a minimalist yet distinctive design.\n\nA celebration of simplicity, individuality, and effortless elegance, this timeless ring is perfect for wearing alone as a subtle yet sophisticated statement.",
+      "material": "Argentium silver or 14kt  yellow gold",
+      "gallery": [
+        "/images/organic-silver-ring.jpg"
+      ],
+      "order": 50,
+      "visible": true
+    },
+    {
+      "title": "Unda Trio Stacking Rings",
+      "description": "Inspired by the fluid movement of water, the Unda Trio Stacking Rings features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nThis three-ring set includes two Argentium silver rings with 14kt yellow gold settings and one 14kt yellow gold ring,  all three rings beautifully accented with sparkling lab-grown diamonds.\n\nDesigned to be worn together, each ring brings its own unique character, creating a harmonious balance of contrasting metals, sculptural curves, and subtle brilliance.\n\nA modern yet timeless set that celebrates fluidity, individuality, and the beauty of organic forms.",
+      "material": "Argentium silver and 14kt  yellow gold",
+      "gallery": [
+        "/images/mixed-metal-stacking-rings.jpg"
+      ],
+      "order": 90,
+      "visible": true
+    },
+    {
+      "title": "Tempora NecklacePast, Present & Future Necklace",
+      "description": "Past, Present & Future\n\nInspired by the continuous flow of time, the Tempora Necklace features an elegant, organic design with three delicately arranged gemstones that symbolize the past, present, and future, capturing the beauty of life's ever-changing journey.\n\nAt its center, three 4 mm round gemstones are arranged vertically, available in Multicolored Spinels, Black Spinels, or Opals, each offering a unique expression of individuality and timeless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold and available with a 16\" or 18\" chain, this delicate necklace celebrates the memories we cherish, the moments we live, and the possibilities that lie ahead.\n\nA meaningful yet timeless piece that reflects the beauty of transformation, connection, and the natural flow of life.\n\nEach 4 mm round  natural gemstone is set in a sleek, minimalist setting, available in three variations: Tricolor Spinel, Black Spinel, or Opal.\n\nCrafted in Argentium silver or 14kt gold, with your choice of a 16\" or 18\" chain.\n\nA timeless piece that brings together meaningful symbolism and effortless elegance.",
+      "material": "Argentium silver or 14kt gold",
+      "gallery": [
+        "/images/past-present-future-necklace.jpg"
+      ],
+      "order": 20,
       "visible": true
     },
     {
@@ -64,52 +104,12 @@
       "visible": true
     },
     {
-      "title": "Unda Ring",
-      "description": "Inspired by the fluid movement of water, the Unda Ring features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural shape create a minimalist yet distinctive design.\n\nA celebration of simplicity, individuality, and effortless elegance, this timeless ring is perfect for wearing alone as a subtle yet sophisticated statement.",
-      "material": "Argentium silver or 14kt  yellow gold",
-      "gallery": [
-        "/images/organic-silver-ring.jpg"
-      ],
-      "order": 50,
-      "visible": true
-    },
-    {
-      "title": "Solaris Flow Ring",
-      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Flow Ring features an organic, irregular sunburst silhouette with delicate, wave-like details that create a sense of movement around a brilliant center gemstone.\n\nAt its center sits a 5 mm natural round gemstone, available in Iolite, Blue Topaz, or Amethyst.\n\nCrafted in Argentium silver or 14kt yellow gold, the ring features a subtly textured, slightly rough finish rather than a completely smooth surface, enhancing its natural, handcrafted character.\n\nA delicate yet distinctive piece that celebrates fluidity, movement, and the beauty of imperfection, perfectly complementing the Solaris Flow Pendant.",
-      "material": "Argentium silver or 14kt  yellow gold",
-      "gallery": [
-        "/images/blue-topaz-starburst-ring.jpg"
-      ],
-      "order": 60,
-      "visible": true
-    },
-    {
       "title": "Wedding Bands",
       "description": "A pair of custom wedding bands made for a couple.",
       "gallery": [
         "/images/wedding-bands.jpg"
       ],
       "order": 70,
-      "visible": true
-    },
-    {
-      "title": "Fiamma Earrings",
-      "description": "Inspired by the organic shapes of dancing flames, the Fiamma Earrings feature a bold, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt gold, these sculptural earrings are available with 6 mm round natural Garnet or Amethyst gemstones, or in a plain silver version for a minimalist look.\n\nA distinctive statement piece that celebrates individuality, movement, and the beauty of organic forms.",
-      "material": "Argentium silver or 14kt  yellow gold",
-      "gallery": [
-        "/images/sculptural-gemstone-pieces.jpg"
-      ],
-      "order": 80,
-      "visible": true
-    },
-    {
-      "title": "Unda Trio Stacking Rings",
-      "description": "Inspired by the fluid movement of water, the Unda Trio Stacking Rings features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nThis three-ring set includes two Argentium silver rings with 14kt yellow gold settings and one 14kt yellow gold ring,  all three rings beautifully accented with sparkling lab-grown diamonds.\n\nDesigned to be worn together, each ring brings its own unique character, creating a harmonious balance of contrasting metals, sculptural curves, and subtle brilliance.\n\nA modern yet timeless set that celebrates fluidity, individuality, and the beauty of organic forms.",
-      "material": "Argentium silver and 14kt  yellow gold",
-      "gallery": [
-        "/images/mixed-metal-stacking-rings.jpg"
-      ],
-      "order": 90,
       "visible": true
     }
   ]

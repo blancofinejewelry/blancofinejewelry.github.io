@@ -1,10 +1,10 @@
 {
   "homepage": {
     "logoImage": "/images/blanco-logo-instagram.jpg",
-    "title": "Jewelry Beyond the Expected. Designed with intention. Made with individuality. Created to be personal.",
+    "title": "Jewelry Beyond the Expected. ",
     "description": "Elementa: The Elements of Nature. The Elements of Life.\n\nInspired by the forces of nature and the experiences that shape us, Elementa celebrates organic beauty, sculptural forms, and individuality.\n\nRooted in my journey as a woman, immigrant, artist, and independent designer, each design reflects a connection to nature, creative freedom, and the beauty of imperfection.\n\nThrough fluid silhouettes, colorful natural gemstones, and meaningful details, Blanco Fine Jewelry transforms these inspirations into jewelry that feels deeply personal.\n\nDesigned with intention. Handcrafted in New York City. Made to order.\n",
     "heroImage": "/images/img0499.jpg",
-    "heroAlt": "Malayan garnet set in a sculptural Argentium silver ring."
+    "heroAlt": "Elementa: The Elements of Nature. The Elements of Life. "
   },
   "about": "With over a decade of experience in New York City's jewelry industry, I bring together my background as a visual artist and a management professional with a passion for jewelry design, craftsmanship, and creative expression.\n\nAs a woman, immigrant and independent designer, creating my own jewelry brand represents more than a business venture. It is an expression of my personal journey, creative independence, and desire to build something meaningful and uniquely my own.\n\nMy design philosophy is inspired by the beauty of organic forms, irregular shapes, and the unexpected. I am drawn to unconventional silhouettes, sculptural elements, and fluid lines that challenge traditional jewelry aesthetics. I believe there is beauty in imperfection and that jewelry should be expressive, distinctive, and individual.\n\nMy vision is to create jewelry that goes beyond traditional adornment. Each design is an opportunity to tell a story, celebrate individuality, and create a personal connection with the person wearing it. I also embrace personalization, offering designs that feel meaningful and reflect each individual's character and style.\n\nNatural, colorful gemstones are an essential part of my creative language. They introduce unexpected touches of color, contrast, and personality, bringing each piece to life and highlighting its unique character.\n\nEvery piece is made to order and handcrafted in New York City, allowing for a thoughtful and intentional approach to design and production. I work exclusively with recycled silver and gold and natural gemstones, placing sustainability, quality, and craftsmanship at the center of my practice.\n\nUltimately, my brand is a reflection of who I am: a woman, an immigrant, an artist, and an independent designer. It celebrates individuality, embraces imperfection, and reimagines jewelry as a form of personal expression.\n\nDesigned with intention. Made with individuality. Created to be personal.",
   "contact": {
@@ -29,17 +29,17 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-95116-pm-1.png"
       ],
-      "order": 60,
+      "order": 20,
       "visible": true
     },
     {
-      "title": "Liquida Ring",
-      "description": "Inspired by the beauty of molten metal and fluid movement, the Liquida Ring features an organic, free-flowing design with irregular curves that embrace the natural beauty of each gemstone.\n\nA one-of-a-kind, made-to-order statement ring, featuring a natural 8 × 6 mm gemstone, available in London Blue Topaz, Amethyst, Blue Sapphire, Garnet, or Peridot.\n\nCrafted in your choice of Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural details create a bold yet timeless piece.\n\nA celebration of individuality, fluidity, and effortless elegance, each ring is uniquely made to capture the beauty of liquid forms frozen in time.",
-      "material": "Argentium silver or 14kt  yellow gold",
+      "title": "Solaris Studs",
+      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Studs features an organic, irregular sunburst silhouette with delicate, wave-like details that evoke a sense of natural elegance.\n\nAt its center sits a 5 mm natural round gemstone, available in your choice of soft violet-blue iolite or luminous blue topaz. Each gemstone brings its own distinctive expression of color and light to this sculptural design.\n\nCrafted in Argentium silver or 14kt yellow gold, the Solaris Necklace celebrates fluidity, individuality, and the beauty of organic forms.\n\nA delicate yet distinctive piece designed to bring effortless elegance to everyday wear.",
+      "material": "Argentium silver or 14kt gold",
       "gallery": [
-        "/images/screenshot-2026-11-12-at-90328-pm.png"
+        "/images/screenshot-2026-11-12-at-102611-pm.png"
       ],
-      "order": 40,
+      "order": 30,
       "visible": true
     },
     {
@@ -49,7 +49,17 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-85924-pm.png"
       ],
-      "order": 30,
+      "order": 40,
+      "visible": true
+    },
+    {
+      "title": "Liquida Ring",
+      "description": "Inspired by the beauty of molten metal and fluid movement, the Liquida Ring features an organic, free-flowing design with irregular curves that embrace the natural beauty of each gemstone.\n\nA one-of-a-kind, made-to-order statement ring, featuring a natural 8 × 6 mm gemstone, available in London Blue Topaz, Amethyst, Blue Sapphire, Garnet, or Peridot.\n\nCrafted in your choice of Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural details create a bold yet timeless piece.\n\nA celebration of individuality, fluidity, and effortless elegance, each ring is uniquely made to capture the beauty of liquid forms frozen in time.",
+      "material": "Argentium silver or 14kt  yellow gold",
+      "gallery": [
+        "/images/screenshot-2026-11-12-at-90328-pm.png"
+      ],
+      "order": 50,
       "visible": true
     },
     {
@@ -59,27 +69,7 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-101812-pm.png"
       ],
-      "order": 80,
-      "visible": true
-    },
-    {
-      "title": "Unda Ring",
-      "description": "Inspired by the fluid movement of water, the Unda Ring features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural shape create a minimalist yet distinctive design.\n\nA celebration of simplicity, individuality, and effortless elegance, this timeless ring is perfect for wearing alone as a subtle yet sophisticated statement.",
-      "material": "Argentium silver or 14kt  yellow gold",
-      "gallery": [
-        "/images/screenshot-2026-11-12-at-90513-pm.png"
-      ],
-      "order": 50,
-      "visible": true
-    },
-    {
-      "title": "Unda Trio Stacking Rings",
-      "description": "Inspired by the fluid movement of water, the Unda Trio Stacking Rings features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nThis three-ring set includes two Argentium silver rings with 14kt yellow gold settings and one 14kt yellow gold ring,  all three rings beautifully accented with sparkling lab-grown diamonds.\n\nDesigned to be worn together, each ring brings its own unique character, creating a harmonious balance of contrasting metals, sculptural curves, and subtle brilliance.\n\nA modern yet timeless set that celebrates fluidity, individuality, and the beauty of organic forms.",
-      "material": "Argentium silver and 14kt  yellow gold",
-      "gallery": [
-        "/images/screenshot-2026-11-12-at-94830-pm.png"
-      ],
-      "order": 90,
+      "order": 60,
       "visible": true
     },
     {
@@ -89,7 +79,27 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-85602-pm.png"
       ],
-      "order": 20,
+      "order": 70,
+      "visible": true
+    },
+    {
+      "title": "Unda Ring",
+      "description": "Inspired by the fluid movement of water, the Unda Ring features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished finish and sculptural shape create a minimalist yet distinctive design.\n\nA celebration of simplicity, individuality, and effortless elegance, this timeless ring is perfect for wearing alone as a subtle yet sophisticated statement.",
+      "material": "Argentium silver or 14kt  yellow gold",
+      "gallery": [
+        "/images/screenshot-2026-11-12-at-90513-pm.png"
+      ],
+      "order": 90,
+      "visible": true
+    },
+    {
+      "title": "Unda Trio Stacking Rings",
+      "description": "Inspired by the fluid movement of water, the Unda Trio Stacking Rings features an organic, free-flowing silhouette with soft, irregular curves and gentle waves that capture the essence of fluidity, creating a sense of movement and effortless elegance.\n\nThis three-ring set includes two Argentium silver rings with 14kt yellow gold settings and one 14kt yellow gold ring,  all three rings beautifully accented with sparkling lab-grown diamonds.\n\nDesigned to be worn together, each ring brings its own unique character, creating a harmonious balance of contrasting metals, sculptural curves, and subtle brilliance.\n\nA modern yet timeless set that celebrates fluidity, individuality, and the beauty of organic forms.",
+      "material": "Argentium silver and 14kt  yellow gold",
+      "gallery": [
+        "/images/screenshot-2026-11-12-at-94830-pm.png"
+      ],
+      "order": 80,
       "visible": true
     },
     {
@@ -109,16 +119,6 @@
       "material": "14kt gold",
       "gallery": [
         "/images/screenshot-2026-11-12-at-94620-pm.png"
-      ],
-      "order": 70,
-      "visible": true
-    },
-    {
-      "title": "Solaris Studs",
-      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Studs features an organic, irregular sunburst silhouette with delicate, wave-like details that evoke a sense of natural elegance.\n\nAt its center sits a 5 mm natural round gemstone, available in your choice of soft violet-blue iolite or luminous blue topaz. Each gemstone brings its own distinctive expression of color and light to this sculptural design.\n\nCrafted in Argentium silver or 14kt yellow gold, the Solaris Necklace celebrates fluidity, individuality, and the beauty of organic forms.\n\nA delicate yet distinctive piece designed to bring effortless elegance to everyday wear.",
-      "material": "Argentium silver or 14kt gold",
-      "gallery": [
-        "/images/screenshot-2026-11-12-at-102611-pm.png"
       ],
       "order": 110,
       "visible": true

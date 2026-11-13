@@ -34,7 +34,7 @@
     },
     {
       "title": "Solaris Studs",
-      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Studs features an organic, irregular sunburst silhouette with delicate, wave-like details that evoke a sense of natural elegance.\n\nAt its center sits a 5 mm natural round gemstone, available in your choice of soft violet-blue iolite or luminous blue topaz. Each gemstone brings its own distinctive expression of color and light to this sculptural design.\n\nCrafted in Argentium silver or 14kt yellow gold, the Solaris Necklace celebrates fluidity, individuality, and the beauty of organic forms.\n\nA delicate yet distinctive piece designed to bring effortless elegance to everyday wear.",
+      "description": "Inspired by the radiance of the sun and the beauty of fluid movement, the Solaris Studs features an organic, irregular sunburst silhouette with delicate, wave-like details that evoke a sense of natural elegance. \n\nAt its center sits a 5 mm natural round gemstone, available in your choice of soft violet-blue iolite or luminous blue topaz. Each gemstone brings its own distinctive expression of color and light to this sculptural design.\n\nCrafted in Argentium silver or 14kt yellow gold, the Solaris Necklace celebrates fluidity, individuality, and the beauty of organic forms.\n\nA delicate yet distinctive piece designed to bring effortless elegance to everyday wear.",
       "material": "Argentium silver or 14kt gold",
       "gallery": [
         "/images/screenshot-2026-11-12-at-102611-pm.png"
@@ -43,8 +43,8 @@
       "visible": true
     },
     {
-      "title": "Fiamma Necklace",
-      "description": "Inspired by the graceful movement of dancing flames and the beauty of natural forms, the Fiamma Pendant features an organic, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished surface and sculptural shape reflect the energy and movement of fire, creating a distinctive statement piece that feels both modern and timeless.\n\nAvailable with your choice of a 15\", 16\", or 18\" chain, this pendant celebrates individuality, natural beauty, and the elegance of organic forms.",
+      "title": "Flamma Necklace",
+      "description": "Inspired by the graceful movement of dancing flames and the beauty of natural forms, the Flamma Pendant features an organic, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold, its smooth, polished surface and sculptural shape reflect the energy and movement of fire, creating a distinctive statement piece that feels both modern and timeless.\n\nAvailable with your choice of a 15\", 16\", or 18\" chain, this pendant celebrates individuality, natural beauty, and the elegance of organic forms.",
       "material": "Argentium silver or 14kt gold",
       "gallery": [
         "/images/screenshot-2026-11-12-at-85924-pm.png"
@@ -63,23 +63,13 @@
       "visible": true
     },
     {
-      "title": "Fiamma Earrings",
-      "description": "Inspired by the organic shapes of dancing flames, the Fiamma Earrings feature a bold, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt gold, these sculptural earrings are available with 6 mm round natural Garnet or Amethyst gemstones, or in a plain silver version for a minimalist look.\n\nA distinctive statement piece that celebrates individuality, movement, and the beauty of organic forms.",
+      "title": "Flamma Earrings",
+      "description": "Inspired by the organic shapes of dancing flames, the Flamma Earrings feature a bold, free-flowing silhouette with soft, irregular curves that capture a sense of fluidity and effortless elegance.\n\nCrafted in Argentium silver or 14kt gold, these sculptural earrings are available with 6 mm round natural Garnet or Amethyst gemstones, or in a plain silver version for a minimalist look.\n\nA distinctive statement piece that celebrates individuality, movement, and the beauty of organic forms.",
       "material": "Argentium silver or 14kt  yellow gold",
       "gallery": [
         "/images/screenshot-2026-11-12-at-101812-pm.png"
       ],
       "order": 60,
-      "visible": true
-    },
-    {
-      "title": "Tempora Necklace",
-      "description": "Past, Present & Future\n\nInspired by the continuous flow of time, the Tempora Necklace features an elegant, organic design with three delicately arranged gemstones that symbolize the past, present, and future, capturing the beauty of life's ever-changing journey.\n\nAt its center, three 4 mm round gemstones are arranged vertically, available in Multicolored Spinels, Black Spinels, or Opals, each offering a unique expression of individuality and timeless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold and available with a 16\" or 18\" chain, this delicate necklace celebrates the memories we cherish, the moments we live, and the possibilities that lie ahead.\n\nA meaningful yet timeless piece that reflects the beauty of transformation, connection, and the natural flow of life.\n\nEach 4 mm round  natural gemstone is set in a sleek, minimalist setting, available in three variations: Tricolor Spinel, Black Spinel, or Opal.\n\nCrafted in Argentium silver or 14kt gold, with your choice of a 16\" or 18\" chain.\n\nA timeless piece that brings together meaningful symbolism and effortless elegance.",
-      "material": "Argentium silver or 14kt gold",
-      "gallery": [
-        "/images/screenshot-2026-11-12-at-85602-pm.png"
-      ],
-      "order": 70,
       "visible": true
     },
     {
@@ -89,7 +79,17 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-90513-pm.png"
       ],
-      "order": 90,
+      "order": 70,
+      "visible": true
+    },
+    {
+      "title": "Tempora Necklace",
+      "description": "Past, Present & Future\n\nInspired by the continuous flow of time, the Tempora Necklace features an elegant, organic design with three delicately arranged gemstones that symbolize the past, present, and future, capturing the beauty of life's ever-changing journey.\n\nAt its center, three 4 mm round gemstones are arranged vertically, available in Multicolored Spinels, Black Spinels, or Opals, each offering a unique expression of individuality and timeless elegance.\n\nCrafted in Argentium silver or 14kt yellow gold and available with a 16\" or 18\" chain, this delicate necklace celebrates the memories we cherish, the moments we live, and the possibilities that lie ahead.\n\nA meaningful yet timeless piece that reflects the beauty of transformation, connection, and the natural flow of life.\n\nEach 4 mm round  natural gemstone is set in a sleek, minimalist setting, available in three variations: Tricolor Spinel, Black Spinel, or Opal.\n\nCrafted in Argentium silver or 14kt gold, with your choice of a 16\" or 18\" chain.\n\nA timeless piece that brings together meaningful symbolism and effortless elegance.",
+      "material": "Argentium silver or 14kt gold",
+      "gallery": [
+        "/images/screenshot-2026-11-12-at-85602-pm.png"
+      ],
+      "order": 80,
       "visible": true
     },
     {
@@ -99,7 +99,7 @@
       "gallery": [
         "/images/screenshot-2026-11-12-at-94830-pm.png"
       ],
-      "order": 80,
+      "order": 90,
       "visible": true
     },
     {
@@ -114,13 +114,23 @@
       "visible": true
     },
     {
+      "title": "Terra Studs",
+      "description": "Inspired by the natural beauty of the earth, the Terra Earrings feature simple yet sculptural silhouettes with irregular, softly rounded details that evoke natural mineral formations.\n\nAt the center of each earring sits a 6 mm natural round red garnet, bringing rich, deep red tones and a distinctive expression of warmth to the organic design.\n\nCrafted in silver or 14kt gold the Terra Earrings celebrate strength, individuality, and the beauty of imperfection, creating a balance between raw beauty and refined elegance.\n\nA delicate yet distinctive design that brings a touch of nature-inspired elegance to everyday wear.",
+      "material": "Argentium silver or 14kt  yellow gold",
+      "gallery": [
+        "/images/screenshot-2026-11-12-at-104722-pm.png"
+      ],
+      "order": 110,
+      "visible": true
+    },
+    {
       "title": "Aeterna ",
       "description": "Custom Engagement Rings & Wedding Bands\n\nInspired by the beauty of everlasting love and meaningful connections, the Aeterna Collection celebrates individuality and the timeless bond between two people through one-of-a-kind, custom-designed jewelry.\n\nFrom engagement rings to wedding bands, each piece is thoughtfully designed and made to order, reflecting your personal style and unique love story through carefully selected gemstones, precious metals, and meaningful details.\n\nEvery design is a celebration of individuality, combining timeless elegance with personal expression to create something as unique as the connection it represents.\n\nA collection of one-of-a-kind pieces that celebrates love, commitment, and the beauty of moments meant to last forever.",
       "material": "14kt gold",
       "gallery": [
         "/images/screenshot-2026-11-12-at-94620-pm.png"
       ],
-      "order": 110,
+      "order": 120,
       "visible": true
     }
   ]
